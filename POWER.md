@@ -1,6 +1,6 @@
 ---
-name: "danielkreuzhofer-kiro-coding-best-practices"
-displayName: "Daniel Kreuzhofer's Kiro Coding Best Practices"
+name: "daniels-kiro-coding-best-practices"
+displayName: "Daniel's Kiro Coding Best Practices"
 description: "Team coding standards covering TDD, property-based testing, test execution workflows, spec naming conventions, and design document guidelines."
 keywords: ["coding-standards", "tdd", "property-based-testing", "spec-naming", "mermaid-diagrams"]
 author: "Daniel Kreuzhofer"
